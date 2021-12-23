@@ -1,0 +1,2 @@
+In this project, we will find out which apps are profitable in both stores. As we are working with the apps which are free to install and the revenue is consisted into the app-ads, so we need to check which apps are attracting the users.
+Here, two data sets have been used. One is for google play and another one is for apple. Google play store has approximately 10 thousands of apps and apple store has approximateky 7 thousands of apps. I followed the project idea from dataquest as i was doing a course from there.
